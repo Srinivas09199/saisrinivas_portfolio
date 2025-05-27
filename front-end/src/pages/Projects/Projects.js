@@ -26,7 +26,7 @@ const Projects = () => {
                         once: false, amount: 0.9
                     }}  
                     className='pb-3 text-center'
-                >here are my top 3 recent project with live links and source code</motion.p>
+                >here are my top 4 recent project with live links and source code</motion.p>
             
             {/* card design */}
             <div className='row' id='ads'>
