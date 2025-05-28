@@ -1,6 +1,6 @@
 import React from 'react'
 import './Projects.css'
-import travel_website from '../../assets/Images/travel_website.png'
+// import travel_website from '../../assets/Images/travel_website.png'
 import netflix from '../../assets/Images/netflix.png'
 import portfolio from '../../assets/Images/portfolio.png'
 import e_commerce from '../../assets/Images/e_commerce.png'
