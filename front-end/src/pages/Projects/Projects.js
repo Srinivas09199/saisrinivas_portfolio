@@ -57,7 +57,7 @@ const Projects = () => {
                         <Fade right>
                             <div className='card rounded'>
                                 <div className='card-image'>
-                                    <span className='card-notify-badge'>Full Stack</span>
+                                    <span className='card-notify-badge'>React Application</span>
                                     <img src={portfolio} alt='portfolio' />
                                 </div>
                                 <div className='card-image-overly m-auto mt-3'>
