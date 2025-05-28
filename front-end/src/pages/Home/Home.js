@@ -3,7 +3,7 @@ import { useTheme } from '../../Context/ThemeContext';
 import Typewriter from 'typewriter-effect';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../../variants'
-import Resume from '../../assets/docs/Sai Srinivas Dandangi Updated Resume.pdf'
+import Resume from '../../assets/docs/Sai Srinivas Full Stack Developer_Resume.pdf'
 import { BsMoonStarsFill, BsFillSunFill } from "react-icons/bs";
 import './Home.css'
 //import Fade from 'react-reveal/Fade'
