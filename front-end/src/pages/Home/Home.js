@@ -53,7 +53,7 @@ const Home = () => {
               }}
               className='home-buttons'>
               <a className='btn btn-hire' href="https://api.whatsapp.com/send?phone=917659804151" target="_blank" rel="noreferrer">Hire Me</a>
-              <a className='btn btn-cv' href={Resume} download="Sai Srinivas Dandangi Updated Resume.pdf">Download CV</a>
+              <a className='btn btn-cv' href={Resume} download="Sai Srinivas Full Stack Developer_Resume.pdf">Download CV</a>
             </motion.div>
         </div>
       </div>
