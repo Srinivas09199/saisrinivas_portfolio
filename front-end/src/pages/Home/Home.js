@@ -38,6 +38,7 @@ const Home = () => {
                         'Full Stack Developer!',
                         'FrontEnd Developer!',
                         'Web Developer!',
+                        'Backend Developer!',
                       ],
                       autoStart: true,
                       loop: true,
