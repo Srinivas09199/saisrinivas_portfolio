@@ -3,7 +3,7 @@ import { useTheme } from '../../Context/ThemeContext';
 import Typewriter from 'typewriter-effect';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../../variants'
-import Resume from '../../assets/docs/Sai Srinivas Full Stack Developer Resume'
+import Resume from '../../assets/docs/Sai Srinivas Full Stack Developer Resume.pdf'
 import { BsMoonStarsFill, BsFillSunFill } from "react-icons/bs";
 import './Home.css'
 //import Fade from 'react-reveal/Fade'
@@ -54,7 +54,7 @@ const Home = () => {
               }}
               className='home-buttons'>
               <a className='btn btn-hire' href="https://api.whatsapp.com/send?phone=917659804151" target="_blank" rel="noreferrer">Hire Me</a>
-              <a className='btn btn-cv' href={Resume} download="Sai Srinivas Full Stack Developer Resume">Download CV</a>
+              <a className='btn btn-cv' href={Resume} download="Sai Srinivas Full Stack Developer Resume.pdf">Download CV</a>
             </motion.div>
         </div>
       </div>
