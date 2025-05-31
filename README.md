@@ -1,4 +1,5 @@
-🎓 Student Portfolio Website
+🎓 Student Portfolio Website(ReactJS Application)
+
 The Student Portfolio Website is a fully responsive and interactive web application developed using React.js. It serves as a professional digital resume to showcase a student’s academic background, technical skills, personal projects, and contact information. The goal of this portfolio is to create a centralized and visually appealing platform to demonstrate capabilities to potential recruiters, mentors, and institutions.
 
 🚀 Project Overview
